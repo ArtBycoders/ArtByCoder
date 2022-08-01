@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x8AAA2460A9702A06FDa617E0b2ac61B9ae7c5e3e",
+  "SCAN_LINK": "https://polygonscan.com/address/0x8AAA2460A9702A06FDa617E0b2ac61B9ae7c5e3e",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "ArtByCoders",
+  "SYMBOL": "ABC",
+  "MAX_SUPPLY": 2222,
+  "WEI_COST":"2000000000000000000000",
+  "DISPLAY_COST": 2000,
+  "GAS_LIMIT": 2850000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/artbycoders",
+  "SHOW_BACKGROUND": true
+}
